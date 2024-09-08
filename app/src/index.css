@@ -1,0 +1,47 @@
+body{
+  font-family: "Sintony",Arial,sans-serif;
+  margin: 0px;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  border-bottom: 1px Black solid;
+  min-height: 10vh;
+  align-content: center;
+  justify-content: center;
+  font-size: 5vh;
+}
+
+.nav-home{
+  width: 20%;
+  text-decoration: none;
+  color: black;
+  display: flex;
+  align-items: center;
+  margin-left: 0;
+  margin-right: auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.nav-home:hover{
+  background: black;
+  color: white; 
+}
+
+.nav-option{
+  width: 20%;
+  text-decoration: none;
+  color: black;
+  display: flex;
+  align-items: center;
+  margin-right: 0;
+  justify-content: center;
+}
+
+.nav-option:hover{
+  background: black;
+  color: white;
+}
