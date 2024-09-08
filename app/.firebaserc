@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "puckalytics-1cec2"
+  },
+  "targets": {
+    "puckalytics-1cec2": {
+      "hosting": {
+        "puckpuckgoose": [
+          "puckpuckgoose"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
